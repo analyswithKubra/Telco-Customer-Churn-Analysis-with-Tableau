@@ -9,6 +9,7 @@
 
 ---
 
+
 ## Introduction
 
 This dashboard was developed to analyze customer churn using a comprehensive dataset sourced from Kaggle. The dataset consisted of nine interconnected tables, covering various aspects of customer demographics, service usage, payment methods, and churn details.
@@ -18,6 +19,26 @@ To prepare the data for analysis, I utilized **Tableau Prep** to clean, transfor
 Through detailed visualizations, this dashboard explores factors such as churn rates by category, geographical trends, payment methods, age groups, and contract types. The goal is to provide actionable insights that help businesses improve customer retention strategies and address specific churn drivers effectively.
 
 This project demonstrates the power of Tableau as an end-to-end solution for data preparation, modeling, and visualization, enabling clear and actionable insights from complex datasets.
+
+---
+## Methodology
+
+### Data Sources
+
+We analyzed data from six key sources:
+1. **CustomerChurn**: Customer demographics, subscription details, and churn status.
+2. **Demographics**: Customer age, gender, marital status, and dependents.
+3. **Location**: Geographical data such as state, city, and zip code.
+4. **Population**: Population data by zip code.
+5. **Services (Excel)**: Alternative format with service details.
+6. **Status**: Churn scores, labels, and reasons.
+
+
+### Data Preparation Steps
+1. **Data Cleaning**: Removed duplicates, addressed missing values, and ensured consistency across all data sources.
+2. **Data Integration**: Combined the six tables into a unified model using common identifiers like Customer ID.
+3. **Feature Engineering**: Created new variables such as Age Groups, Churn Rates, and Tenure Categories to enhance analysis.
+4. **Aggregation**: Grouped data by dimensions like age, state, and payment methods to identify trends and patterns.
 
 ---
 
@@ -39,24 +60,89 @@ This project demonstrates the power of Tableau as an end-to-end solution for dat
 
 ---
 
-### 2. Churn by Reasons
-**Insights:**  
-- The leading reason for customer churn is that competitors made better offers, accounting for 18.73% of churn cases.  
-- Poor attitude from support staff follows closely with 13.80%, highlighting a key service gap.  
-- Other significant reasons include better devices offered by competitors (9.84%) and better data options (7.12%).  
 
-![Screenshot 2025-01-15 at 11 48 26 AM](https://github.com/user-attachments/assets/0de4b653-03a4-4cbd-8bfb-5146097127a6)
+### 1. Churn by Category
+**Insights:**  
+- The largest contributor to customer churn is competition, accounting for 42.05% of the churn.  
+- Other significant reasons include customer attitude (18.83%) and dissatisfaction with the service (16.21%).  
+- Price and other factors contribute 12.20% and 10.70%, respectively.  
+
+![Screenshot 2025-01-15 at 11 45 20 AM](https://github.com/user-attachments/assets/3ef77132-13b2-495b-847e-96d850a49b32)
+
+
 
 **Recommendations:**  
-- Train customer support teams to enhance service quality and better address customer concerns.  
-- Regularly benchmark competitor offers to ensure competitive pricing, data options, and device upgrades.  
-- Highlight and promote unique service benefits that differentiate the company from competitors.
+- Introduce loyalty programs, discounts, or added-value services to retain customers and mitigate churn caused by competitors.  
+- Conduct surveys to better understand customer attitudes and dissatisfaction to proactively address their concerns.
 
 ---
 
-... *(Continue for each insight, visualization, and recommendation in the same structured format)* ...
+### 1. Churn by Category
+**Insights:**  
+- The largest contributor to customer churn is competition, accounting for 42.05% of the churn.  
+- Other significant reasons include customer attitude (18.83%) and dissatisfaction with the service (16.21%).  
+- Price and other factors contribute 12.20% and 10.70%, respectively.  
+
+![Screenshot 2025-01-15 at 11 45 20 AM](https://github.com/user-attachments/assets/3ef77132-13b2-495b-847e-96d850a49b32)
+
+
+
+**Recommendations:**  
+- Introduce loyalty programs, discounts, or added-value services to retain customers and mitigate churn caused by competitors.  
+- Conduct surveys to better understand customer attitudes and dissatisfaction to proactively address their concerns.
 
 ---
+
+### 1. Churn by Category
+**Insights:**  
+- The largest contributor to customer churn is competition, accounting for 42.05% of the churn.  
+- Other significant reasons include customer attitude (18.83%) and dissatisfaction with the service (16.21%).  
+- Price and other factors contribute 12.20% and 10.70%, respectively.  
+
+![Screenshot 2025-01-15 at 11 45 20 AM](https://github.com/user-attachments/assets/3ef77132-13b2-495b-847e-96d850a49b32)
+
+
+
+**Recommendations:**  
+- Introduce loyalty programs, discounts, or added-value services to retain customers and mitigate churn caused by competitors.  
+- Conduct surveys to better understand customer attitudes and dissatisfaction to proactively address their concerns.
+
+---
+
+
+### 1. Churn by Category
+**Insights:**  
+- The largest contributor to customer churn is competition, accounting for 42.05% of the churn.  
+- Other significant reasons include customer attitude (18.83%) and dissatisfaction with the service (16.21%).  
+- Price and other factors contribute 12.20% and 10.70%, respectively.  
+
+![Screenshot 2025-01-15 at 11 45 20 AM](https://github.com/user-attachments/assets/3ef77132-13b2-495b-847e-96d850a49b32)
+
+
+
+**Recommendations:**  
+- Introduce loyalty programs, discounts, or added-value services to retain customers and mitigate churn caused by competitors.  
+- Conduct surveys to better understand customer attitudes and dissatisfaction to proactively address their concerns.
+
+---
+
+### 1. Churn by Category
+**Insights:**  
+- The largest contributor to customer churn is competition, accounting for 42.05% of the churn.  
+- Other significant reasons include customer attitude (18.83%) and dissatisfaction with the service (16.21%).  
+- Price and other factors contribute 12.20% and 10.70%, respectively.  
+
+![Screenshot 2025-01-15 at 11 45 20 AM](https://github.com/user-attachments/assets/3ef77132-13b2-495b-847e-96d850a49b32)
+
+
+
+**Recommendations:**  
+- Introduce loyalty programs, discounts, or added-value services to retain customers and mitigate churn caused by competitors.  
+- Conduct surveys to better understand customer attitudes and dissatisfaction to proactively address their concerns.
+
+---
+
+
 
 ## Conclusion
 
