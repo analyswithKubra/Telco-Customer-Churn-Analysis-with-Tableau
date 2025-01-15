@@ -1,7 +1,5 @@
 # Telco Customer Churn Dashboard Report
 
-## Overview
-
 **Created Date:** 12/02/2024  
 **Company Name:** Telco Systems  
 **Prepared By:** Kubra Dizlek  
