@@ -50,7 +50,8 @@ We analyzed data from six key sources:
 - Other significant reasons include customer attitude (18.83%) and dissatisfaction with the service (16.21%).  
 - Price and other factors contribute 12.20% and 10.70%, respectively.  
 
-![Screenshot 2025-01-15 at 11 45 20 AM](https://github.com/user-attachments/assets/3ef77132-13b2-495b-847e-96d850a49b32)
+![Screenshot 2025-01-15 at 1 02 35 PM](https://github.com/user-attachments/assets/cf65c6c9-7ff6-4088-885e-fc5737f0a2e4)
+
 
 
 
