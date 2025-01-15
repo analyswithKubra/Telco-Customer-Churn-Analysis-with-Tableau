@@ -5,7 +5,7 @@
 **Created Date:** 12/02/2024  
 **Company Name:** Telco Systems  
 **Prepared By:** Kubra Dizlek  
-**Dashboard Link:** [Telco Churn Dashboard](#)
+**Dashboard Link:** [Telco Churn Dashboard](https://public.tableau.com/app/profile/kubra.dizlek/viz/TelcoChurnDashboard_17331624461710/Dashboard2)
 
 *NOTE: If you want to see the interactive dashboard on the Tableau platform, please click the dashboard link. By using this link, you can see the whole dashboard and use filters. But if you want to have detailed insights and recommendations about each visualization, please keep scrolling.*
 
