@@ -29,9 +29,8 @@ This project demonstrates the power of Tableau as an end-to-end solution for dat
 - Other significant reasons include customer attitude (18.83%) and dissatisfaction with the service (16.21%).  
 - Price and other factors contribute 12.20% and 10.70%, respectively.  
 
-**Visual A:**  
-*Churn By Category*  
-- A horizontal bar chart that displays the percentage breakdown of churn by category. This chart emphasizes the dominance of competitive factors in driving churn and provides a clear comparison of other contributing reasons.
+![Screenshot 2025-01-15 at 11 42 34 AM](https://github.com/user-attachments/assets/4c09885a-aaf7-451e-826a-e2d631b56ea4)
+
 
 **Recommendations:**  
 - Introduce loyalty programs, discounts, or added-value services to retain customers and mitigate churn caused by competitors.  
