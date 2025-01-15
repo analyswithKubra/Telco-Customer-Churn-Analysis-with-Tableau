@@ -61,52 +61,38 @@ We analyzed data from six key sources:
 
 ---
 
+## 2. Churn by Reasons
+### Insights
+- The leading reason for customer churn is that competitors made better offers, accounting for 18.73% of churn cases.
+- Poor attitude from support staff follows closely with 13.80%, highlighting a key service gap.
+- Other significant reasons include better devices offered by competitors (9.84%) and better data options (7.12%).
+- Reasons like high prices, poor product quality, and network reliability contribute smaller but notable shares.
 
-### 1. Churn by Category
-**Insights:**  
-- The largest contributor to customer churn is competition, accounting for 42.05% of the churn.  
-- Other significant reasons include customer attitude (18.83%) and dissatisfaction with the service (16.21%).  
-- Price and other factors contribute 12.20% and 10.70%, respectively.  
-
-![Screenshot 2025-01-15 at 11 45 20 AM](https://github.com/user-attachments/assets/3ef77132-13b2-495b-847e-96d850a49b32)
-
-
-
-**Recommendations:**  
-- Introduce loyalty programs, discounts, or added-value services to retain customers and mitigate churn caused by competitors.  
-- Conduct surveys to better understand customer attitudes and dissatisfaction to proactively address their concerns.
-
----
-
-### 1. Churn by Category
-**Insights:**  
-- The largest contributor to customer churn is competition, accounting for 42.05% of the churn.  
-- Other significant reasons include customer attitude (18.83%) and dissatisfaction with the service (16.21%).  
-- Price and other factors contribute 12.20% and 10.70%, respectively.  
-
-![Screenshot 2025-01-15 at 11 45 20 AM](https://github.com/user-attachments/assets/3ef77132-13b2-495b-847e-96d850a49b32)
+![Screenshot 2025-01-15 at 1 07 33 PM](https://github.com/user-attachments/assets/4a3329d7-a0cd-460b-b2fb-5dd029d15c0c)
 
 
-
-**Recommendations:**  
-- Introduce loyalty programs, discounts, or added-value services to retain customers and mitigate churn caused by competitors.  
-- Conduct surveys to better understand customer attitudes and dissatisfaction to proactively address their concerns.
+### Recommendations
+**Improve Customer Retention Through Support and Offerings**
+- Train customer support teams to enhance service quality and better address customer concerns.
+- Regularly benchmark competitor offers to ensure competitive pricing, data options, and device upgrades.
+- Highlight and promote unique service benefits that differentiate the company from competitors.
 
 ---
+## 3. Churn Rate by States
 
-### 1. Churn by Category
-**Insights:**  
-- The largest contributor to customer churn is competition, accounting for 42.05% of the churn.  
-- Other significant reasons include customer attitude (18.83%) and dissatisfaction with the service (16.21%).  
-- Price and other factors contribute 12.20% and 10.70%, respectively.  
+### Insights
+- The churn rate varies significantly across states, with Pennsylvania having the highest churn rate at 96%.
+- States with large populations and high competition, such as California and Texas, also exhibit notable churn rates.
+- Regions with lower churn rates may indicate stronger customer loyalty or less market competition.
 
-![Screenshot 2025-01-15 at 11 45 20 AM](https://github.com/user-attachments/assets/3ef77132-13b2-495b-847e-96d850a49b32)
-
+![Screenshot 2025-01-15 at 1 10 47 PM](https://github.com/user-attachments/assets/9e493bfc-cf1a-47f7-be3c-55a307a080e3)
 
 
-**Recommendations:**  
-- Introduce loyalty programs, discounts, or added-value services to retain customers and mitigate churn caused by competitors.  
-- Conduct surveys to better understand customer attitudes and dissatisfaction to proactively address their concerns.
+### Recommendations
+**Target High-Churn States with Retention Strategies**
+- Conduct deeper market research in Pennsylvania and other high-churn states to uncover specific local challenges or competitor influences.
+- Introduce targeted offers or campaigns in high-churn states to retain customers.
+- Leverage insights from low-churn regions to replicate successful retention strategies in higher-risk areas.
 
 ---
 
