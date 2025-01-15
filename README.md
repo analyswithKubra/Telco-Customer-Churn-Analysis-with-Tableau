@@ -1,3 +1,8 @@
+![download](https://github.com/user-attachments/assets/d1a4eb61-d217-4d13-bdc9-d5deec5f5a9f)
+
+
+
+
 # Telco Customer Churn Dashboard Report
 
 **Created Date:** 12/02/2024  
