@@ -45,9 +45,7 @@ This project demonstrates the power of Tableau as an end-to-end solution for dat
 - Poor attitude from support staff follows closely with 13.80%, highlighting a key service gap.  
 - Other significant reasons include better devices offered by competitors (9.84%) and better data options (7.12%).  
 
-**Visual B:**  
-*Churn By Reasons*  
-- A horizontal bar chart that provides a detailed breakdown of specific churn reasons. This visualization emphasizes the most significant factors driving churn while showcasing less frequent but important concerns like service reliability and product quality.
+![Screenshot 2025-01-15 at 11 48 26 AM](https://github.com/user-attachments/assets/0de4b653-03a4-4cbd-8bfb-5146097127a6)
 
 **Recommendations:**  
 - Train customer support teams to enhance service quality and better address customer concerns.  
