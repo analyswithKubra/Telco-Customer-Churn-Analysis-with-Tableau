@@ -1,4 +1,3 @@
-# Telco-Customer-Churn-Analysis-with-Tableau-
 # Telco Customer Churn Dashboard Report
 
 ## Overview
