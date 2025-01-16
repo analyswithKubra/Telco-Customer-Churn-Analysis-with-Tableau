@@ -188,23 +188,20 @@ This project shows how data and visualizations can help solve real business prob
 
 ### Files and Folders
 
-- [collaboration.md](#collaboration)
+- [collaboration.md](https://github.com/analyswithKubra/Telco-Customer-Churn-Analysis-with-Tableau/blob/main/collaboration.md)
   Please click if you want to collaborate with me. This file outlines how you can contribute and includes my contact information.
 
-- [fqa.md](#fqa)
+- [fqa.md](https://github.com/analyswithKubra/Telco-Customer-Churn-Analysis-with-Tableau/blob/main/fqa.md)
   Frequently asked questions about the project.
 
-- [license.md](#license)
+- [license.md](https://github.com/analyswithKubra/Telco-Customer-Churn-Analysis-with-Tableau/blob/main/license.md)
   Includes the license details for this project.
 
-- [Telco Churn Dashboard.twbx](#tableau-workbook)
+- [Telco Churn Dashboard.twbx](https://github.com/analyswithKubra/Telco-Customer-Churn-Analysis-with-Tableau/blob/main/Dataset/Telco_customer_churn_joinedxlsx.xlsx)
   Tableau workbook containing all visualizations and dashboards.
 
-- [dataset/](#dataset-folder)
+- [dataset/](https://github.com/analyswithKubra/Telco-Customer-Churn-Analysis-with-Tableau/tree/main/Dataset)
   Download the dataset used for the analysis. This folder contains all the raw and cleaned data files.
 
-- [Image/](#images-folder)
-  Stores visual assets or exported charts related to the analysis.
-
-Feel free to click on any file to learn more about the project components. For questions or collaboration, check out [collaboration.md](#collaboration) or reach out to me directly!
+Feel free to click on any file to learn more about the project components. For questions or collaboration, check out [collaboration.md](https://github.com/analyswithKubra/Telco-Customer-Churn-Analysis-with-Tableau/blob/main/collaboration.md) or reach out to me directly!
 
