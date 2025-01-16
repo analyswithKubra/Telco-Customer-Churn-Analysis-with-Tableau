@@ -185,3 +185,26 @@ This dashboard offers a clear view of what drives customer churn and highlights 
 The findings show the importance of tailoring strategies for different customer segments, like addressing high churn among seniors and enhancing the Basic plan’s value. With interactive features, users can dive deeper into the data to understand customer behavior and identify opportunities to retain more customers.
 
 This project shows how data and visualizations can help solve real business problems and improve decision-making for better results.
+
+### Files and Folders
+
+- [collaboration.md](#collaboration)
+  Please click if you want to collaborate with me. This file outlines how you can contribute and includes my contact information.
+
+- [fqa.md](#fqa)
+  Frequently asked questions about the project.
+
+- [license.md](#license)
+  Includes the license details for this project.
+
+- [Telco Churn Dashboard.twbx](#tableau-workbook)
+  Tableau workbook containing all visualizations and dashboards.
+
+- [dataset/](#dataset-folder)
+  Download the dataset used for the analysis. This folder contains all the raw and cleaned data files.
+
+- [Image/](#images-folder)
+  Stores visual assets or exported charts related to the analysis.
+
+Feel free to click on any file to learn more about the project components. For questions or collaboration, check out [collaboration.md](#collaboration) or reach out to me directly!
+
